@@ -1,2 +1,2 @@
 # discussion
-Feel free to talk (create an issue)
+Feel free to talk (open an issue)
